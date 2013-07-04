@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/userName"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="사용자 이름"/>
+    
+     <item
+        android:id="@+id/usedTime"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="이용 시간"/>
+     
+      <item
+        android:id="@+id/emoState"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="감성 상태"/>
+
+</menu>

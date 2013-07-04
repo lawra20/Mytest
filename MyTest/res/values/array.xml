@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="singers">
+        <item>이지은</item>
+        <item>송세희</item>
+        <item>정준호</item>
+        <item>김동근</item>
+        <item>홍길동</item>
+    </string-array>
+</resources>
